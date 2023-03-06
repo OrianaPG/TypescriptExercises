@@ -10,11 +10,11 @@ TypeScript offers all the features of JavaScript, plus an additional layer on to
 
 ### Modules
 
-1. Get Started with TypeScript
-2. Declare variable types in TypeScript
-3. Implement interfaces in TypeScript
-4. Develop typed functions by using TypeScript
-5. Declare and instantiate classes in TypeScript
-6. Define generics in TypeScript
-7. Access external libraries from TypeScript
-8. Organize code using TypeScript namespaces
+1. [Get Started with TypeScript](./module%2001/module01.md)
+2. [Declare variable types in TypeScript](./module%2002/module02.md)
+3. [Implement interfaces in TypeScript](./module%2003/module03.md)
+4. [Develop typed functions by using TypeScript](./module%2004/module04.md)
+5. [Declare and instantiate classes in TypeScript](./module%2005/module05.md)
+6. [Define generics in TypeScript](./module%2006/module06.md)
+7. [Access external libraries from TypeScript](./module%2007/module07.md)
+8. [Organize code using TypeScript namespaces](./module%2008/module08.md)
